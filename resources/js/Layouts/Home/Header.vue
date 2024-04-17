@@ -97,7 +97,7 @@ onMounted(function () {
                 <div class="font-end text-white_">
                     Заказать звонок
                     <a href="" style="font-size: .8rem">
-                        +7 (495) 668‑1069   
+                       
                     </a>
                     с 8:00 до 20:00
                 </div>
@@ -111,7 +111,7 @@ onMounted(function () {
         <div class="container rounded d-flex flex-wrap justify-content-center align-items-center shadow-sm p-3 bg-white" id="header">
 
             <div class="me-5">
-                <Logo text="Латерес" />
+                <Logo text="Company" />
             </div>
                             
             <div class="d-flex align-items-center">

@@ -97,16 +97,16 @@ import Col from '@/Components/Grid/Col.vue'
                 <div class="h5">Мы  в соцсетях</div>
                 <ul class="list-unstyled">
                     <li class="first">
-                        <a href="https://www.facebook.com/lateres.ru/"><i class="socicon-facebook"></i> Facebook</a>
+                        <a href="https://www.facebook.com//"><i class="socicon-facebook"></i> Facebook</a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/Lateres_Sale"><i class="socicon-twitter"></i> Twitter</a>
+                        <a href="https://twitter.com/"><i class="socicon-twitter"></i> Twitter</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/lateres.ru/"><i class="socicon-instagram"></i> Instagram</a>
+                        <a href="https://www.instagram.com//"><i class="socicon-instagram"></i> Instagram</a>
                     </li>
                     <li class="last">
-                        <a href="https://vk.com/lateres"><i class="socicon-vkontakte"></i> Vkontakte</a>
+                        <a href="https://vk.com/"><i class="socicon-vkontakte"></i> Vkontakte</a>
                     </li>
                 </ul>
             </Col>
@@ -115,6 +115,6 @@ import Col from '@/Components/Grid/Col.vue'
 
 
     <div class="text-center">
-        Copyright © 2024 «LATERES.RU» WealFull, Inc or its affiliates - CA, USA. All rights reserved. by WealFull, Inc
+        Copyright © 2024  or its affiliates - CA, USA. All rights reserved. by 
     </div>
 </template>
